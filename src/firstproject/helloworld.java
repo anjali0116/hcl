@@ -15,6 +15,7 @@ public class helloworld
 		helloworld juice= new helloworld();
 		juice.size= helloworld.juiceEnumVariable.MEDIUM;
 		System.out.println("SIZE:"+juice.size);
+System.out.println("hi");
 		
 	}
 }
