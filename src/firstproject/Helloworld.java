@@ -2,7 +2,7 @@ package firstproject;
 
 
 
-public class helloworld 
+public class Helloworld 
 {
 	enum juiceEnumVariable{SMALL, MEDIUM, LARGE};
 	juiceEnumVariable size;
