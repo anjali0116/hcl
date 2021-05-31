@@ -12,8 +12,8 @@ public class Helloworld
 {
 	public static void main(String[] args[])
 	{
-		helloworld juice= new helloworld();
-		juice.size= helloworld.juiceEnumVariable.MEDIUM;
+		Helloworld juice= new Helloworld();
+		juice.size= Helloworld.juiceEnumVariable.MEDIUM;
 		System.out.println("SIZE:"+juice.size);
 System.out.println("hi");
 		
