@@ -2,13 +2,13 @@ package firstproject;
 
 
 
-public class Helloworld 
+ class Helloworld 
 {
 	enum juiceEnumVariable{SMALL, MEDIUM, LARGE};
 	juiceEnumVariable size;
 }
 
- class FreshJuiceTest
+ public class FreshJuiceTest
 {
 	public static void main(String[] args[])
 	{
